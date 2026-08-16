@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
