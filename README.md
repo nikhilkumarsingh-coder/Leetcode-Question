@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting Sort
 |  |
 | ------- |
