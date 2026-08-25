@@ -39,8 +39,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
