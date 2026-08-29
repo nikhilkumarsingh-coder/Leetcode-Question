@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
