@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting Sort
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
