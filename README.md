@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0055-jump-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
