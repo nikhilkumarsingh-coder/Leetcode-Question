@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0055-jump-game) |
+| [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
 ## Math
