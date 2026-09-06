@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0007-reverse-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
