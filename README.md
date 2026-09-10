@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
