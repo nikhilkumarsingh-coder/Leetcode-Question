@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0029-divide-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
