@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
