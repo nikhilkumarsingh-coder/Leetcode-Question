@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0029-divide-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0344-reverse-string) |
