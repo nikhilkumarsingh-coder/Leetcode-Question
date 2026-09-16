@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0383-ransom-note) |
