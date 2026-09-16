@@ -169,10 +169,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
