@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
