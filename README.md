@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
