@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
