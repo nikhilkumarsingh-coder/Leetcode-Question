@@ -2,6 +2,7 @@ class NumArray {
     int[] p;
     public NumArray(int[] nums) {
         p=new int[nums.length+1];
+        p[0]=0;
         for(int i=0;i<nums.length;i++){
             p[i+1]=p[i]+nums[i];
         }
