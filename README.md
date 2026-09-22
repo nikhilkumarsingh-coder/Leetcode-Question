@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0704-binary-search) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
