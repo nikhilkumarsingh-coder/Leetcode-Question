@@ -4,23 +4,22 @@ class Solution {
         if(s.length()<p.length()){
             return ans;
         }
-        int[] pfeq=new int[26];
-        int[] WS=new int[26];
+        int[] ws=new int[26];
+        int[] pf=new int[26];
         for(char ch:p.toCharArray()){
-            pfeq[ch-'a']++;
+            pf[ch-'a']++;
         }
-        int k=p.length();
-        for(int i=0;i<k;i++){
-            WS[s.charAt(i)-'a']++;
+        for(int i=0;i<p.length();i++){
+            ws[s.charAt(i)-'a']++;
         }
-        if(Arrays.equals(pfeq,WS)){
+        if(Arrays.equals(pf,ws)){
             ans.add(0);
         }
-        for(int i=k;i<s.length();i++){
-            WS[s.charAt(i)-'a']++;
-            WS[s.charAt(i-k)-'a']--;
-            if(Arrays.equals(pfeq,WS)){
-                ans.add(i-k+1);
+        for(int i=p.length();i<s.length();i++){
+            ws[s.charAt(i)-'a']++;
+            ws[s.charAt(i-p.length())-'a']--;
+            if(Arrays.equals(pf,ws)){
+                ans.add(i-p.length()+1);
             }
         }
         return ans;
