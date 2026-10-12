@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1480-running-sum-of-1d-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
