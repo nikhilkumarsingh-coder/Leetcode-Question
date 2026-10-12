@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
