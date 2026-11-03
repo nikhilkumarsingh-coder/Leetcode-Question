@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0383-ransom-note) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0344-reverse-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0912-sort-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/nikhilkumarsingh-coder/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
